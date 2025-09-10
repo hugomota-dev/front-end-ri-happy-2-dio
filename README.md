@@ -3,7 +3,7 @@ Ri Happy - Front-end do Zero #2
 
 ### Fundamentos do CSS
 
-Os combinadores CSS são operadores (como ` `, >, +, ~) que definem a relação entre dois seletores, permitindo que você estilize elementos com base na sua posição ou hierarquia no documento HTML. Os quatro combinadores principais são o descendente (espaço), que seleciona todos os elementos descendentes; o filho (>), que seleciona apenas filhos diretos; o irmão adjacente (+), que seleciona o irmão imediatamente seguinte; e o irmão geral (~), que seleciona todos os irmãos que seguem o elemento especificado dentro do mesmo pai. 
+Os combinadores CSS são operadores ( como ` `, >, +, ~ ) que definem a relação entre dois seletores, permitindo que você estilize elementos com base na sua posição ou hierarquia no documento HTML. Os quatro combinadores principais são o descendente (espaço), que seleciona todos os elementos descendentes; o filho (>), que seleciona apenas filhos diretos; o irmão adjacente (+), que seleciona o irmão imediatamente seguinte; e o irmão geral (~), que seleciona todos os irmãos que seguem o elemento especificado dentro do mesmo pai. 
 
 Tipos de combinadores CSS
 
