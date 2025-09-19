@@ -67,6 +67,48 @@
 - **Transparência:** `opacity: 0.5`
 - **Overflow:** `overflow: hidden | scroll | auto | visible`
 - **Redefinir propriedades padrão:**
+
+# Propriedades Shorthand no CSS
+
+As propriedades shorthand permitem definir múltiplos valores de uma só vez, tornando o código mais limpo e compacto.
+
+## Exemplos de Propriedades Shorthand
+
+- **margin:**  
+  Define todas as margens (top, right, bottom, left)  
+  `margin: 10px 20px 15px 5px;`
+
+- **padding:**  
+  Define todos os espaçamentos internos  
+  `padding: 5px 10px;`
+
+- **border:**  
+  Define largura, estilo e cor da borda  
+  `border: 2px solid #000;`
+
+- **background:**  
+  Define cor, imagem, posição, tamanho, repetição, origem, clip e attachment  
+  `background: #fff url('img.png') center/cover no-repeat;`
+
+- **font:**  
+  Define estilo, peso, tamanho, altura da linha e família  
+  `font: italic bold 16px/1.5 'Roboto', sans-serif;`
+
+- **transition:**  
+  Define propriedades, duração, função de tempo e delay  
+  `transition: all 0.3s ease-in;`
+
+- **animation:**  
+  Define nome, duração, timing, delay, iteração, direção e fill mode  
+  `animation: fadeIn 2s linear 1s infinite alternate;`
+
+## Vantagens
+- Menos código
+- Mais legibilidade
+- Facilidade de manutenção
+
+## Observação
+A ordem dos valores é importante e pode variar conforme a propriedade.
   ```css
   * {
     margin: 0;
