@@ -2,5 +2,5 @@
 
 [Fundamentos CSS](Fundamentos_CSS/README.md)
 
-[Estilização básica com CSS](Estilizacao_CSS/README.md)
+[Estilização básica com CSS](Estilizacao_basica_com_CSS/README.md)
 
